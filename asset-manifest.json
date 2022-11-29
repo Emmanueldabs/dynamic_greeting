@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dynamic_greeting/static/css/main.e749e95b.css",
+    "main.js": "/dynamic_greeting/static/js/main.7ee6e987.js",
+    "index.html": "/dynamic_greeting/index.html",
+    "main.e749e95b.css.map": "/dynamic_greeting/static/css/main.e749e95b.css.map",
+    "main.7ee6e987.js.map": "/dynamic_greeting/static/js/main.7ee6e987.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e749e95b.css",
+    "static/js/main.7ee6e987.js"
+  ]
+}
